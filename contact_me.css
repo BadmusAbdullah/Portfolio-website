@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(40, 40, 55);
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5rem;
+  margin: 0;
+  align-content: center;
+  background-color: rgb(58, 58, 80);
+}
+.hire {
+  background-color: red;
+  border-radius: 7px;
+  width: 80px;
+  text-align: center;
+  padding: 0.5rem;
+}
+.logo {
+  font-family: "Pacifico", cursive;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  margin: 0 1rem;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+main {
+  box-sizing: border-box;
+  width: 450px;
+  height: 530px;
+  margin: 2rem auto;
+  background-color: rgb(58, 58, 80);
+  padding: 1rem 0;
+}
+input {
+  width: 100%;
+  border-radius: 3px;
+  height: 25px;
+  border: none;
+  padding-left: 10px;
+}
+select {
+    width: 100%;
+    height: 27px;
+    border-radius: 3px;
+    border: none;
+    padding-left: 10px;
+}
+.fig {
+  margin-bottom: 0.5rem;
+}
+footer {
+  background-color: rgb(58, 58, 80);
+  text-align: center;
+  padding: 1rem 0;
+}
