@@ -1,112 +1,112 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  body {
-    margin: 0;
-    padding: 0;
-    background-color: rgb(40, 40, 55);
-    color: white;
-    font-family: "Open Sans", sans-serif;
-  }
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 5rem;
-    margin: 0;
-    align-content: center;
-    background-color: rgb(58, 58, 80);
-  }
-  .logo {
-    font-family: "Pacifico", cursive;
-  }
-  strong {
-    font-size: 100px;
-    color: red;
-    font-size: larger;
-  }
-  ul {
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  li {
-    margin: 0 1rem;
-  }
-  .pics1 {
-    object-fit: cover;
-    height: 320px;
-    width: 320px;
-    padding: 5rem;
-    border-radius: 50%;
-  }
-  .info-text {
-    width: 50%;
-    line-height: 2rem;
-  }
-  .info-container {
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-  }
-  a {
-    text-decoration: none;
-    color: white;
-  }
-  button {
-    padding: 0.8rem;
-    border-radius: 10px;
-    width: 100px;
-    background-color: red;
-    color: white;
-    border: none;
-    margin-top: 1rem;
-  }
-  .projects {
-    padding: 0 5rem;
-  }
-  .info {
-    padding: 0 3rem;
-  }
-  .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .projects h1 {
-    font-size: 30px;
-  }
-  .pro-child {
-    width: 300px;
-    background-color: rgb(40, 43, 48);
-    border-radius: 15px;
-    margin: 1.5rem 1.5rem;
-    padding: 1rem;
-  }
-  .pro-child img {
-    color: red;
-    border-color: aqua;
-    display: inline-block;
-  }
-  .pro-child p {
-    font-size: smaller;
-    color: rgb(194, 189, 189);
-  }
-  footer {
-    background-color: rgb(58, 58, 80);
-    text-align: center;
-    padding: 1rem 0;
-  }
-  a img {
-    margin: 0.5rem 2rem 0 0;
-  }
-  .hire {
-    background-color: red;
-    border-radius: 7px;
-    width: 80px;
-    text-align: center;
-    padding: 0.5rem;
-  }
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: rgb(40, 40, 55);
+	color: white;
+	font-family: "Open Sans", sans-serif;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 5rem;
+	margin: 0;
+	align-content: center;
+	background-color: rgb(58, 58, 80);
+}
+.logo {
+	font-family: "Pacifico", cursive;
+}
+strong {
+	font-size: 100px;
+	color: red;
+	font-size: larger;
+}
+ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+li {
+	margin: 0 1rem;
+}
+.pics1 {
+	object-fit: cover;
+	height: 320px;
+	width: 320px;
+	padding: 5rem;
+	border-radius: 50%;
+}
+.info-text {
+	width: 50%;
+	line-height: 2rem;
+}
+.info-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+button {
+	padding: 0.8rem;
+	border-radius: 10px;
+	width: 100px;
+	background-color: red;
+	color: white;
+	border: none;
+	margin-top: 1rem;
+}
+.projects {
+	padding: 0 5rem;
+}
+.info {
+	padding: 0 3rem;
+}
+.project-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.projects h1 {
+	font-size: 30px;
+}
+.pro-child {
+	width: 300px;
+	background-color: rgb(40, 43, 48);
+	border-radius: 15px;
+	margin: 1.5rem 1.5rem;
+	padding: 1rem;
+}
+.pro-child img {
+	color: red;
+	border-color: aqua;
+	display: inline-block;
+}
+.pro-child p {
+	font-size: smaller;
+	color: rgb(194, 189, 189);
+}
+footer {
+	background-color: rgb(58, 58, 80);
+	text-align: center;
+	padding: 1rem 0;
+}
+a img {
+	margin: 0.5rem 2rem 0 0;
+}
+.hire {
+	background-color: red;
+	border-radius: 7px;
+	width: 80px;
+	text-align: center;
+	padding: 0.5rem;
+}
